@@ -1,0 +1,10 @@
+- PC1: Medical Procedures & Medications
+- PC2: Physical & Mental Health
+- PC3: Medications & Hospital Stay
+- PC4: BMI & Mental Health
+- PC5: Mental & Physical Health
+- PC6: Time in Hospital & Diagnoses
+- PC7: Income & Education
+- PC8: Diagnoses & Medical Care
+- PC9: Procedures & Emergency Care
+- PC10: Inpatient & Emergency Care
