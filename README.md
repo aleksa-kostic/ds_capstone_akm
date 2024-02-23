@@ -6,3 +6,7 @@ Contributors:
 - Marlene Arredondo
 - Kevin Pham
 
+Contents:
+- data
+-     processed
+-     raw
