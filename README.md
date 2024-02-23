@@ -7,15 +7,15 @@ Contributors:
 - Kevin Pham
 
 Contents:
-- data/
-    - processed/
+- `data/`
+    - `processed/`
         - Data files after performing data preprocessing
-    - raw/
+    - `raw/`
         - There are no raw data files pulled directly from anywhere as data is pulled through Python from the UCI Machine Learning repository. 
-- notebooks/
-    - processing/
+- `notebooks/`
+    - `processing/`
         - Notebooks for preprocessing the data pulled from the UCI Machine Learning repository. Output files are under `data/processed/`.
-    - models/
+    - `models/`
         - Notebooks for building the models and getting our results.
-        - Results/
+        - `Results/`
             - All outputs and notes as a result of model building
