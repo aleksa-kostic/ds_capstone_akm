@@ -1,0 +1,172 @@
+=============================
+Top 3 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931212, num_medications: 0.11098506643634376, time_in_hospital: 0.04983944336836229, number_diagnoses: 0.017439161813417193, number_inpatient: 0.006038532511452986
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957841, MentHlth: 0.5246915230483501, BMI: 0.1688384861834895, num_medications: 0.07926386823572125, Income: -0.06768405904985327
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873428, time_in_hospital: 0.16560082399951007, num_lab_procedures: -0.11720208302443572, BMI: 0.1160763727819297, MentHlth: -0.11201446660422093
+
+=============================
+Top 4 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931217, num_medications: 0.1109850664363438, time_in_hospital: 0.04983944336836218, number_diagnoses: 0.017439161813417186, number_inpatient: 0.00603853251145298
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957835, MentHlth: 0.5246915230483497, BMI: 0.16883848618348904, num_medications: 0.07926386823572089, Income: -0.06768405904985329
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873429, time_in_hospital: 0.16560082399950984, num_lab_procedures: -0.11720208302443576, BMI: 0.1160763727819281, MentHlth: -0.11201446660421824
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534827, MentHlth: -0.14470159466229957, num_medications: -0.13147928953281762, PhysHlth: -0.09690640763418533, time_in_hospital: -0.03018439090087013
+
+=============================
+Top 5 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931217, num_medications: 0.11098506643634394, time_in_hospital: 0.04983944336836225, number_diagnoses: 0.01743916181341719, number_inpatient: 0.00603853251145279
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957672, MentHlth: 0.5246915230483532, BMI: 0.16883848618349317, num_medications: 0.07926386823571217, Income: -0.06768405905000337
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516875324, time_in_hospital: 0.1656008239966491, num_lab_procedures: -0.11720208302444145, BMI: 0.11607637278182567, MentHlth: -0.11201446660425605
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534369, MentHlth: -0.14470159466230229, num_medications: -0.131479289532753, PhysHlth: -0.09690640763406566, time_in_hospital: -0.030184390901742457
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254038981, PhysHlth: -0.5486877758583755, BMI: 0.0769705711409883, num_medications: 0.057696532853349004, GenHlth: -0.013712908409597819
+
+=============================
+Top 6 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931214, num_medications: 0.1109850664363439, time_in_hospital: 0.049839443368362255, number_diagnoses: 0.017439161813417186, number_inpatient: 0.00603853251145298
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957846, MentHlth: 0.5246915230483493, BMI: 0.16883848618348823, num_medications: 0.07926386823572065, Income: -0.06768405904985524
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873445, time_in_hospital: 0.16560082399951867, num_lab_procedures: -0.11720208302443576, BMI: 0.11607637278192443, MentHlth: -0.11201446660422082
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534938, MentHlth: -0.14470159466234947, num_medications: -0.13147928953282165, PhysHlth: -0.09690640763418315, time_in_hospital: -0.030184390900883415
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254037105, PhysHlth: -0.5486877758573171, BMI: 0.07697057114085203, num_medications: 0.057696532853917445, GenHlth: -0.013712908444723516
+
+Principal Component 6: Time in Hospital & Diagnoses
+time_in_hospital: 0.9597944185665345, number_diagnoses: 0.19429618648831104, num_medications: -0.18324085687406655, number_inpatient: 0.051648271850212035, Income: -0.0466571590429323
+
+=============================
+Top 7 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931207, num_medications: 0.11098506643634386, time_in_hospital: 0.049839443368362296, number_diagnoses: 0.0174391618134172, number_inpatient: 0.006038532511452975
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957833, MentHlth: 0.5246915230483492, BMI: 0.16883848618349057, num_medications: 0.0792638682357213, Income: -0.06768405904985408
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873497, time_in_hospital: 0.16560082399951284, num_lab_procedures: -0.11720208302443642, BMI: 0.11607637278192103, MentHlth: -0.11201446660422178
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291535383, MentHlth: -0.1447015946623738, num_medications: -0.1314792895327924, PhysHlth: -0.09690640763416605, time_in_hospital: -0.03018439090070558
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254037392, PhysHlth: -0.5486877758572545, BMI: 0.07697057114072471, num_medications: 0.05769653285395312, GenHlth: -0.013712908450195014
+
+Principal Component 6: Time in Hospital & Diagnoses
+time_in_hospital: 0.9597944191953978, number_diagnoses: 0.19429618760996673, num_medications: -0.18324085714983102, number_inpatient: 0.051648271408636356, Income: -0.04665715562748731
+
+Principal Component 7: Income & Education
+Income: -0.927736241584545, Education: -0.2413511536887693, number_diagnoses: 0.1798547542231183, GenHlth: 0.13596186764911322, time_in_hospital: -0.08865263999648737
+
+=============================
+Top 8 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931217, num_medications: 0.11098506643634405, time_in_hospital: 0.04983944336836228, number_diagnoses: 0.017439161813417238, number_inpatient: 0.0060385325114529894
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957831, MentHlth: 0.5246915230483506, BMI: 0.16883848618348865, num_medications: 0.07926386823572046, Income: -0.06768405904985215
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873333, time_in_hospital: 0.16560082399951148, num_lab_procedures: -0.11720208302443463, BMI: 0.11607637278192112, MentHlth: -0.11201446660422197
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534709, MentHlth: -0.14470159466230995, num_medications: -0.1314792895328233, PhysHlth: -0.09690640763417731, time_in_hospital: -0.03018439090086174
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254037106, PhysHlth: -0.5486877758572658, BMI: 0.07697057114077416, num_medications: 0.057696532853971486, GenHlth: -0.01371290844637074
+
+Principal Component 6: Time in Hospital & Diagnoses
+time_in_hospital: 0.9597944183337928, number_diagnoses: 0.19429618484337804, num_medications: -0.183240857548164, number_inpatient: 0.05164826967046396, Income: -0.04665715507892604
+
+Principal Component 7: Income & Education
+Income: -0.9277362235922151, Education: -0.24135119145562703, number_diagnoses: 0.1798547725328991, GenHlth: 0.1359619714725658, time_in_hospital: -0.08865263334135093
+
+Principal Component 8: Diagnoses & Medical Care
+number_diagnoses: 0.931824487277154, Income: 0.19912103210224172, time_in_hospital: -0.1907673581869095, number_inpatient: 0.1349612816585287, number_outpatient: 0.11520114434101299
+
+=============================
+Top 9 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931214, num_medications: 0.1109850664363447, time_in_hospital: 0.049839443368362366, number_diagnoses: 0.017439161813417255, number_inpatient: 0.0060385325114529955
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957851, MentHlth: 0.5246915230483499, BMI: 0.16883848618348948, num_medications: 0.0792638682357191, Income: -0.06768405904985281
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873375, time_in_hospital: 0.1656008239995146, num_lab_procedures: -0.11720208302443517, BMI: 0.11607637278193134, MentHlth: -0.11201446660422117
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534975, MentHlth: -0.14470159466233007, num_medications: -0.1314792895328194, PhysHlth: -0.09690640763416858, time_in_hospital: -0.030184390900874894
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254037257, PhysHlth: -0.5486877758572475, BMI: 0.07697057114077452, num_medications: 0.0576965328539771, GenHlth: -0.013712908447716507
+
+Principal Component 6: Time in Hospital & Diagnoses
+time_in_hospital: 0.9597944180741537, number_diagnoses: 0.19429618586428923, num_medications: -0.18324085696726644, number_inpatient: 0.05164827099781069, Income: -0.046657158097693774
+
+Principal Component 7: Income & Education
+Income: -0.9277362423693659, Education: -0.2413511473561684, number_diagnoses: 0.17985476753392116, GenHlth: 0.1359618583769326, time_in_hospital: -0.08865263629676122
+
+Principal Component 8: Diagnoses & Medical Care
+number_diagnoses: 0.931824480578811, Income: 0.19912104068442868, time_in_hospital: -0.1907673615750419, number_inpatient: 0.13496130431584044, number_outpatient: 0.1152011751104489
+
+Principal Component 9: Procedures & Emergency Care
+num_procedures: -0.9265431990591884, number_inpatient: 0.277272271263559, number_diagnoses: -0.1769881883778085, number_emergency: 0.11128432912061201, number_outpatient: 0.09732106435780521
+
+=============================
+Top 10 Principal Components:
+Principal Component 1: Medical Procedures & Medications
+num_lab_procedures: 0.9923696096931213, num_medications: 0.11098506643634512, time_in_hospital: 0.04983944336836245, number_diagnoses: 0.0174391618134173, number_inpatient: 0.006038532511452992
+
+Principal Component 2: Physical & Mental Health
+PhysHlth: 0.8245968780957843, MentHlth: 0.5246915230483492, BMI: 0.16883848618348882, num_medications: 0.07926386823571853, Income: -0.06768405904985286
+
+Principal Component 3: Medications & Hospital Stay
+num_medications: 0.9584925516873449, time_in_hospital: 0.1656008239995092, num_lab_procedures: -0.11720208302443635, BMI: 0.11607637278192375, MentHlth: -0.11201446660421858
+
+Principal Component 4: BMI & Mental Health
+BMI: 0.9746696291534858, MentHlth: -0.14470159466234328, num_medications: -0.131479289532824, PhysHlth: -0.09690640763416226, time_in_hospital: -0.030184390900861068
+
+Principal Component 5: Mental & Physical Health
+MentHlth: 0.8301557254037352, PhysHlth: -0.5486877758572669, BMI: 0.07697057114079371, num_medications: 0.057696532853982976, GenHlth: -0.013712908446232722
+
+Principal Component 6: Time in Hospital & Diagnoses
+time_in_hospital: 0.9597944181517654, number_diagnoses: 0.1942961862358715, num_medications: -0.18324085703300586, number_inpatient: 0.0516482712014312, Income: -0.0466571579725651
+
+Principal Component 7: Income & Education
+Income: -0.9277362422764649, Education: -0.24135120028881393, number_diagnoses: 0.17985477125096386, GenHlth: 0.13596201083484538, time_in_hospital: -0.08865263430714462
+
+Principal Component 8: Diagnoses & Medical Care
+number_diagnoses: 0.931824479332149, Income: 0.1991211023798795, time_in_hospital: -0.19076735340662238, number_inpatient: 0.1349612754560739, number_outpatient: 0.1152011491915292
+
+Principal Component 9: Procedures & Emergency Care
+num_procedures: -0.9265431981768519, number_inpatient: 0.27727233871262513, number_diagnoses: -0.17698819780901484, number_emergency: 0.11128435981179073, number_outpatient: 0.09732111584823509
+
+Principal Component 10: Inpatient & Emergency Care
+number_inpatient: 0.7986647465967867, number_emergency: 0.350560435704956, num_procedures: 0.33902560393064674, number_outpatient: 0.31357113768089884, number_diagnoses: -0.1392018046732111
+
