@@ -1,0 +1,11 @@
+optimizer,learning_rate,accuracy,precision,recall,F1_score,failure
+Adam,0.001,0.5042432814710043,0.5042432814710043,1.0,0.6704278326281148,False
+Adam,0.005,0.4957567185289958,Couldn't compute,0.0,NA,True
+Adam,0.01,0.4957567185289958,Couldn't compute,0.0,NA,True
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,True
+Adam,0.1,0.5042432814710043,0.5042432814710043,1.0,0.6704278326281148,False
+SGD,0.001,0.5042432814710043,0.5042432814710043,1.0,0.6704278326281148,False
+SGD,0.005,0.5042432814710043,0.5042432814710043,1.0,0.6704278326281148,False
+SGD,0.01,Couldn't compute,Couldn't compute,Couldn't compute,NA,True
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,True
+SGD,0.1,0.5042432814710043,0.5042432814710043,1.0,0.6704278326281148,False

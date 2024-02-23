@@ -1,0 +1,81 @@
+optimizer,learning_rate,accuracy,precision,recall,F1_score,n_components,failure
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+SGD,0.001,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+SGD,0.01,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,3,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,4,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,4,TRUE
+SGD,0.005,Couldn't compute,Couldn't compute,Couldn't compute,NA,4,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,4,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,4,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,5,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,5,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,5,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,5,TRUE
+Adam,0.01,Couldn't compute,Couldn't compute,Couldn't compute,NA,6,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,6,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,6,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,6,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,6,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,7,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,7,TRUE
+SGD,0.01,Couldn't compute,Couldn't compute,Couldn't compute,NA,7,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,7,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,7,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,8,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,8,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,8,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,8,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,9,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,9,TRUE
+SGD,0.01,Couldn't compute,Couldn't compute,Couldn't compute,NA,9,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,9,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,9,TRUE
+Adam,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,10,TRUE
+Adam,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,10,TRUE
+SGD,0.001,Couldn't compute,Couldn't compute,Couldn't compute,NA,10,TRUE
+SGD,0.05,Couldn't compute,Couldn't compute,Couldn't compute,NA,10,TRUE
+SGD,0.1,Couldn't compute,Couldn't compute,Couldn't compute,NA,10,TRUE
+Adam,0.001,0.629420085,0.594771242,0.85801442,0.702543143,4,FALSE
+Adam,0.001,0.651626591,0.614331356,0.776911977,0.686122085,9,FALSE
+Adam,0.001,0.624045262,0.597245409,0.797214485,0.682891911,3,FALSE
+Adam,0.005,0.510042433,0.510045274,0.999722684,0.675473112,4,FALSE
+Adam,0.01,0.509759547,0.509903792,0.999445369,0.675285741,4,FALSE
+Adam,0.005,0.507779349,0.507783753,0.999442897,0.673423423,3,FALSE
+Adam,0.01,0.507213579,0.507504956,0.998328691,0.672925272,3,FALSE
+SGD,0.001,0.5,0.5,1,0.666666667,7,FALSE
+SGD,0.005,0.499434229,0.499434229,1,0.666163569,6,FALSE
+SGD,0.01,0.499434229,0.499434229,1,0.666163569,6,FALSE
+Adam,0.001,0.641018388,0.619373777,0.720546386,0.666140489,8,FALSE
+SGD,0.001,0.499151344,0.499292386,0.999150382,0.665848825,6,FALSE
+Adam,0.01,0.49688826,0.496958551,0.999715424,0.663894926,8,FALSE
+Adam,0.001,0.624752475,0.591878403,0.753393012,0.662939906,5,FALSE
+Adam,0.01,0.49321075,0.49321075,1,0.660604338,10,FALSE
+SGD,0.005,0.49321075,0.49321075,1,0.660604338,10,FALSE
+SGD,0.01,0.49321075,0.49321075,1,0.660604338,10,FALSE
+Adam,0.005,0.49009901,0.49009901,1,0.657807309,9,FALSE
+SGD,0.001,0.49009901,0.49009901,1,0.657807309,9,FALSE
+SGD,0.005,0.49009901,0.49009901,1,0.657807309,9,FALSE
+Adam,0.01,0.489957567,0.490026878,0.9997114,0.657679894,9,FALSE
+Adam,0.005,0.490240453,0.490021231,0.999711233,0.657674772,5,FALSE
+SGD,0.001,0.489816124,0.489816124,1,0.657552454,5,FALSE
+SGD,0.01,0.489816124,0.489816124,1,0.657552454,5,FALSE
+Adam,0.01,0.489957567,0.489876823,0.999133699,0.657419723,5,FALSE
+Adam,0.001,0.631117397,0.614544552,0.701217785,0.655026455,6,FALSE
+Adam,0.001,0.649222065,0.646649986,0.657991513,0.652271453,7,FALSE
+Adam,0.001,0.620792079,0.633091149,0.549756237,0.588488104,10,FALSE
+SGD,0.005,0.485997171,0.458595642,0.273462316,0.342619392,5,FALSE
+SGD,0.005,0.509335219,0.580345286,0.121727019,0.20124338,3,FALSE
+SGD,0.001,0.509193777,0.529023747,0.114114969,0.187734082,8,FALSE
+SGD,0.01,0.497454031,0.545611015,0.08790904,0.151421065,4,FALSE
+SGD,0.005,0.505374823,0.533450704,0.085714286,0.147696807,7,FALSE
+SGD,0.01,0.508769448,0.542619543,0.074274331,0.130663329,8,FALSE
+Adam,0.005,0.509193777,0.724489796,0.020204895,0.0393134,8,FALSE
+Adam,0.005,0.504384724,0.764705882,0.01104503,0.021775544,6,FALSE
+SGD,0.001,0.490947666,0.577777778,0.007210205,0.014242673,4,FALSE
+Adam,0.005,0.494483734,0.275862069,0.00678925,0.013252347,7,FALSE
+SGD,0.005,0.502404526,0.428571429,0.003414912,0.006775833,8,FALSE
+Adam,0.005,0.508062235,0.846153846,0.003154574,0.006285714,10,FALSE
+Adam,0.01,0.500990099,0.733333333,0.00311174,0.006197183,7,FALSE

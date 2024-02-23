@@ -1,0 +1,172 @@
+=============================
+Top 3 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787408, num_medications: 0.11098506612320637, time_in_hospital: 0.04983944331996269, number_diagnoses: 0.017439161809695247, number_inpatient: 0.0060385325235484365
+
+Principal Component 2:
+PhysHlth: 0.8245968800115989, MentHlth: 0.5246915276419375, BMI: 0.16883848114841585, num_medications: 0.07926385863073222, Income: -0.06768405878855088
+
+Principal Component 3:
+num_medications: 0.958492565393266, time_in_hospital: 0.16560082660518544, num_lab_procedures: -0.11720208229700427, BMI: 0.11607634467191064, MentHlth: -0.11201444199861704
+
+=============================
+Top 4 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787393, num_medications: 0.110985066123206, time_in_hospital: 0.04983944331996254, number_diagnoses: 0.01743916180969518, number_inpatient: 0.00603853252354842
+
+Principal Component 2:
+PhysHlth: 0.8245968800115979, MentHlth: 0.5246915276419389, BMI: 0.16883848114841507, num_medications: 0.07926385863073228, Income: -0.06768405878855101
+
+Principal Component 3:
+num_medications: 0.9584925653932663, time_in_hospital: 0.16560082660518585, num_lab_procedures: -0.11720208229700414, BMI: 0.11607634467190715, MentHlth: -0.11201444199861643
+
+Principal Component 4:
+BMI: 0.9746696436393818, MentHlth: -0.14470154511039646, num_medications: -0.13147924387211474, PhysHlth: -0.0969064348058116, time_in_hospital: -0.030184383302163845
+
+=============================
+Top 5 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787397, num_medications: 0.1109850661232066, time_in_hospital: 0.04983944331996263, number_diagnoses: 0.017439161809695233, number_inpatient: 0.006038532523548248
+
+Principal Component 2:
+PhysHlth: 0.8245968800115789, MentHlth: 0.5246915276419412, BMI: 0.16883848114841282, num_medications: 0.07926385863072795, Income: -0.06768405878871417
+
+Principal Component 3:
+num_medications: 0.9584925653933466, time_in_hospital: 0.1656008266023435, num_lab_procedures: -0.11720208229700206, BMI: 0.1160763446719239, MentHlth: -0.11201444199865265
+
+Principal Component 4:
+BMI: 0.974669643639367, MentHlth: -0.14470154511038788, num_medications: -0.13147924387208657, PhysHlth: -0.09690643480568585, time_in_hospital: -0.030184383303003895
+
+Principal Component 5:
+MentHlth: 0.8301557346395364, PhysHlth: -0.5486877728079318, BMI: 0.07697050739223962, num_medications: 0.05769652473230921, GenHlth: -0.013712909485230058
+
+=============================
+Top 6 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787403, num_medications: 0.11098506612320647, time_in_hospital: 0.04983944331996268, number_diagnoses: 0.017439161809695247, number_inpatient: 0.006038532523548441
+
+Principal Component 2:
+PhysHlth: 0.8245968800115984, MentHlth: 0.52469152764194, BMI: 0.16883848114841468, num_medications: 0.07926385863073226, Income: -0.06768405878855326
+
+Principal Component 3:
+num_medications: 0.9584925653932699, time_in_hospital: 0.16560082660519396, num_lab_procedures: -0.11720208229700418, BMI: 0.11607634467190646, MentHlth: -0.11201444199862073
+
+Principal Component 4:
+BMI: 0.9746696436393968, MentHlth: -0.1447015451104192, num_medications: -0.13147924387211185, PhysHlth: -0.09690643480583393, time_in_hospital: -0.030184383302185487
+
+Principal Component 5:
+MentHlth: 0.8301557346393397, PhysHlth: -0.5486877728066603, BMI: 0.07697050739246819, num_medications: 0.057696524732535504, GenHlth: -0.013712909528785398
+
+Principal Component 6:
+time_in_hospital: 0.9597944184796414, number_diagnoses: 0.19429618460106313, num_medications: -0.18324085779766355, number_inpatient: 0.05164827031318068, Income: -0.046657160988714856
+
+=============================
+Top 7 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787401, num_medications: 0.11098506612320655, time_in_hospital: 0.04983944331996266, number_diagnoses: 0.01743916180969524, number_inpatient: 0.0060385325235484365
+
+Principal Component 2:
+PhysHlth: 0.8245968800115981, MentHlth: 0.524691527641938, BMI: 0.16883848114841513, num_medications: 0.07926385863073206, Income: -0.06768405878855206
+
+Principal Component 3:
+num_medications: 0.958492565393277, time_in_hospital: 0.1656008266052001, num_lab_procedures: -0.11720208229700568, BMI: 0.11607634467190078, MentHlth: -0.11201444199861939
+
+Principal Component 4:
+BMI: 0.9746696436393808, MentHlth: -0.14470154511043, num_medications: -0.13147924387209942, PhysHlth: -0.09690643480578377, time_in_hospital: -0.030184383302074673
+
+Principal Component 5:
+MentHlth: 0.8301557346393349, PhysHlth: -0.5486877728066148, BMI: 0.07697050739244751, num_medications: 0.05769652473259967, GenHlth: -0.013712909531789896
+
+Principal Component 6:
+time_in_hospital: 0.9597944184552336, number_diagnoses: 0.19429618470106297, num_medications: -0.18324085823761616, number_inpatient: 0.05164826991977928, Income: -0.046657157382281975
+
+Principal Component 7:
+Income: -0.9277362325147113, Education: -0.24135116266112322, number_diagnoses: 0.1798548733073345, GenHlth: 0.13596194182879542, time_in_hospital: -0.08865265913489508
+
+=============================
+Top 8 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.99236960987874, num_medications: 0.11098506612320604, time_in_hospital: 0.04983944331996249, number_diagnoses: 0.01743916180969519, number_inpatient: 0.006038532523548426
+
+Principal Component 2:
+PhysHlth: 0.8245968800115973, MentHlth: 0.524691527641938, BMI: 0.16883848114841543, num_medications: 0.07926385863073299, Income: -0.06768405878854979
+
+Principal Component 3:
+num_medications: 0.9584925653932568, time_in_hospital: 0.16560082660518785, num_lab_procedures: -0.11720208229700294, BMI: 0.11607634467189945, MentHlth: -0.1120144419986192
+
+Principal Component 4:
+BMI: 0.9746696436393751, MentHlth: -0.14470154511040428, num_medications: -0.13147924387212032, PhysHlth: -0.09690643480581185, time_in_hospital: -0.030184383302152437
+
+Principal Component 5:
+MentHlth: 0.8301557346393346, PhysHlth: -0.5486877728066142, BMI: 0.0769705073924273, num_medications: 0.05769652473258072, GenHlth: -0.013712909530370203
+
+Principal Component 6:
+time_in_hospital: 0.9597944183071633, number_diagnoses: 0.19429618588036263, num_medications: -0.18324085827309675, number_inpatient: 0.051648272173333704, Income: -0.04665715688854129
+
+Principal Component 7:
+Income: -0.9277362152915594, Education: -0.24135118224712312, number_diagnoses: 0.1798548754252476, GenHlth: 0.13596195415285894, time_in_hospital: -0.0886526567689698
+
+Principal Component 8:
+number_diagnoses: 0.9318244852266044, Income: 0.1991211601825372, time_in_hospital: -0.1907673479861177, number_inpatient: 0.13496129139547927, number_outpatient: 0.11520117112542191
+
+=============================
+Top 9 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787393, num_medications: 0.11098506612320717, time_in_hospital: 0.049839443319962665, number_diagnoses: 0.017439161809695288, number_inpatient: 0.006038532523548443
+
+Principal Component 2:
+PhysHlth: 0.8245968800115976, MentHlth: 0.5246915276419372, BMI: 0.16883848114841574, num_medications: 0.07926385863073095, Income: -0.06768405878855048
+
+Principal Component 3:
+num_medications: 0.9584925653932629, time_in_hospital: 0.16560082660518935, num_lab_procedures: -0.11720208229700295, BMI: 0.11607634467190889, MentHlth: -0.11201444199861986
+
+Principal Component 4:
+BMI: 0.9746696436394018, MentHlth: -0.14470154511040528, num_medications: -0.13147924387212662, PhysHlth: -0.09690643480581534, time_in_hospital: -0.03018438330216062
+
+Principal Component 5:
+MentHlth: 0.8301557346393369, PhysHlth: -0.548687772806597, BMI: 0.0769705073924058, num_medications: 0.05769652473258052, GenHlth: -0.013712909531018603
+
+Principal Component 6:
+time_in_hospital: 0.9597944180680114, number_diagnoses: 0.19429618461804143, num_medications: -0.18324085782912608, number_inpatient: 0.0516482700449539, Income: -0.046657160233269865
+
+Principal Component 7:
+Income: -0.9277362364838776, Education: -0.24135117136114484, number_diagnoses: 0.17985487569018618, GenHlth: 0.13596192572440963, time_in_hospital: -0.08865265673815209
+
+Principal Component 8:
+number_diagnoses: 0.9318244534965964, Income: 0.19912116405433228, time_in_hospital: -0.19076734538739346, number_inpatient: 0.13496126093034594, number_outpatient: 0.11520114444482543
+
+Principal Component 9:
+num_procedures: -0.9265431872192444, number_inpatient: 0.27727240301317896, number_diagnoses: -0.17698824236428037, number_emergency: 0.11128441318439246, number_outpatient: 0.09732114141595015
+
+=============================
+Top 10 Principal Components:
+Principal Component 1:
+num_lab_procedures: 0.9923696098787405, num_medications: 0.1109850661232068, time_in_hospital: 0.049839443319962755, number_diagnoses: 0.01743916180969529, number_inpatient: 0.0060385325235484495
+
+Principal Component 2:
+PhysHlth: 0.8245968800115977, MentHlth: 0.5246915276419373, BMI: 0.16883848114841568, num_medications: 0.07926385863073168, Income: -0.06768405878855044
+
+Principal Component 3:
+num_medications: 0.9584925653932692, time_in_hospital: 0.16560082660518383, num_lab_procedures: -0.11720208229700417, BMI: 0.11607634467190812, MentHlth: -0.11201444199861686
+
+Principal Component 4:
+BMI: 0.974669643639382, MentHlth: -0.14470154511040503, num_medications: -0.13147924387212562, PhysHlth: -0.09690643480581139, time_in_hospital: -0.030184383302155848
+
+Principal Component 5:
+MentHlth: 0.8301557346393531, PhysHlth: -0.548687772806605, BMI: 0.07697050739241498, num_medications: 0.05769652473260659, GenHlth: -0.01371290953043713
+
+Principal Component 6:
+time_in_hospital: 0.9597944181497944, number_diagnoses: 0.19429618466407828, num_medications: -0.18324085792118344, number_inpatient: 0.05164826998670976, Income: -0.04665716002765359
+
+Principal Component 7:
+Income: -0.927736234508078, Education: -0.24135119407595537, number_diagnoses: 0.17985488358378934, GenHlth: 0.13596199114237587, time_in_hospital: -0.08865265804243826
+
+Principal Component 8:
+number_diagnoses: 0.9318244409669832, Income: 0.19912123582365612, time_in_hospital: -0.19076734172700022, number_inpatient: 0.1349612394070394, number_outpatient: 0.1152011114782298
+
+Principal Component 9:
+num_procedures: -0.9265431423352553, number_inpatient: 0.2772723282712291, number_diagnoses: -0.1769883274503098, number_emergency: 0.11128423749604055, number_outpatient: 0.09732100026484931
+
+Principal Component 10:
+number_inpatient: 0.7986650322957324, number_emergency: 0.35056110473531726, num_procedures: 0.3390255334510361, number_outpatient: 0.3135716618033239, number_diagnoses: -0.13920146065631203
+

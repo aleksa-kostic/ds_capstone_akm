@@ -1,0 +1,172 @@
+=============================
+Top 3 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.48857023515011855, HighChol: 0.4174415408210782, DiffWalk: 0.2888690010420977, Smoker: 0.27741538996459203, PhysActivity: -0.24877100827134171
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977910991672577, race_AfricanAmerican: 0.6456850059735492, Sex: -0.1556391978365878, PhysActivity: -0.10924451971631484, DiffWalk: 0.1005781786844213
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6147546567629082, Sex: 0.47648217132755216, Smoker: 0.30568974113524056, Veggies: -0.27830194983554424, HighChol: -0.2367682354789973
+
+=============================
+Top 4 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.4885677214328841, HighChol: 0.417437504544567, DiffWalk: 0.288870900053057, Smoker: 0.27741488020997784, PhysActivity: -0.24877036056778734
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977900709728216, race_AfricanAmerican: 0.64568316216949, Sex: -0.15563932103621306, PhysActivity: -0.10924634591115577, DiffWalk: 0.10056914536408144
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6148232786510149, Sex: 0.4765209403111299, Smoker: 0.30572544949603536, Veggies: -0.27801793154333915, HighChol: -0.23653833333413582
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6353250113748783, age_[60-70): -0.35420748921122386, PhysActivity: -0.3085483622379684, HighChol: -0.24465033982051754, DiffWalk: 0.23519935884867427
+
+=============================
+Top 5 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.4884466242765727, HighChol: 0.41748087568250564, DiffWalk: 0.28860805205150286, Smoker: 0.2774093987313676, PhysActivity: -0.2488398707698703
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977963592551994, race_AfricanAmerican: 0.6457141736206131, Sex: -0.15561330322152156, PhysActivity: -0.10922360572859395, DiffWalk: 0.10110386337524048
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6150839330340745, Sex: 0.4770902501407231, Smoker: 0.3060623701207545, Veggies: -0.27645278514385035, HighChol: -0.2371278547791828
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6349445714470423, age_[60-70): -0.35491879698151313, PhysActivity: -0.3086110779494359, HighChol: -0.24497007933760373, DiffWalk: 0.23659388544805587
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5622235489996258, age_[50-60): -0.44133281043736905, Smoker: -0.4200023938492036, Fruits: -0.4154134807425956, Veggies: -0.20591345442261005
+
+=============================
+Top 6 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.48856946629281545, HighChol: 0.41743709066887347, DiffWalk: 0.28887134852801516, Smoker: 0.2774129755405204, PhysActivity: -0.24877124935793216
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977852447143249, race_AfricanAmerican: 0.6456773985065717, Sex: -0.1556589665625007, PhysActivity: -0.10929944960748722, DiffWalk: 0.10025625235170535
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6154560611186934, Sex: 0.4762123264341266, Smoker: 0.30560867755819376, Veggies: -0.27724145091496183, HighChol: -0.2366024856600306
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6364210886768054, age_[60-70): -0.3523932348323037, PhysActivity: -0.3104730051180377, HighChol: -0.24575831677802223, DiffWalk: 0.23182817973831576
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5648445930714869, age_[50-60): -0.44449503503247567, Smoker: -0.41595656332020325, Fruits: -0.4099931322347252, Veggies: -0.21121253422553052
+
+Principal Component 6: Smoking, age, and health
+Smoker: -0.7119384499174817, age_[60-70): -0.32442507892771133, age_[50-60): 0.32042782165835876, HighChol: 0.2841393440186213, HighBP: 0.2330527022623432
+
+=============================
+Top 7 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.48860961287364485, HighChol: 0.4174850219795018, DiffWalk: 0.2888579881206544, Smoker: 0.27742467880805644, PhysActivity: -0.24886536956292332
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6978210296508293, race_AfricanAmerican: 0.6456315232958401, Sex: -0.15563712908922092, PhysActivity: -0.10940366075436346, DiffWalk: 0.10049834254745503
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6143912105985558, Sex: 0.4766625371936606, Smoker: 0.30566006798506107, Veggies: -0.2796875613498354, HighChol: -0.2371174231280537
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6352787108184486, age_[60-70): -0.35354066641824705, PhysActivity: -0.3076461813786372, HighChol: -0.24541477487800534, DiffWalk: 0.23523519345258054
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5609038033263991, age_[50-60): -0.4408370581984011, Smoker: -0.42355180742149934, Fruits: -0.4151324870516556, Veggies: -0.20525142547525568
+
+Principal Component 6: Smoking, age, and health
+Smoker: -0.7079315464528385, age_[60-70): -0.3318801449328204, age_[50-60): 0.32616577857444, HighChol: 0.28523984103267774, HighBP: 0.23426007241229216
+
+Principal Component 7: Readmission, smoking, and age
+readmitted_>30: 0.9623682356628105, readmitted_<30: -0.20882365244700005, Smoker: 0.11458485282287302, age_[60-70): 0.06799371054767483, HighChol: -0.05769121740031537
+
+=============================
+Top 8 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.4885720800588039, HighChol: 0.4174423725901341, DiffWalk: 0.28888607661103183, Smoker: 0.27741714774255605, PhysActivity: -0.24877540713932483
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.697796313899937, race_AfricanAmerican: 0.6456697139626024, Sex: -0.15564747785975286, PhysActivity: -0.10929720347824964, DiffWalk: 0.10056124897771018
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6151004074890841, Sex: 0.4766131418227123, Smoker: 0.30571602983475016, Veggies: -0.27754909497404123, HighChol: -0.2366834287787273
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6352798360343365, age_[60-70): -0.3540547846381133, PhysActivity: -0.30859951171432176, HighChol: -0.24472058065802677, DiffWalk: 0.2349502354396417
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5628524739330977, age_[50-60): -0.443296054509812, Smoker: -0.41877886598456154, Fruits: -0.41208577188489726, Veggies: -0.21044588819863438
+
+Principal Component 6: Smoking, age, and health
+Smoker: -0.7106378648497286, age_[60-70): -0.3276514098456483, age_[50-60): 0.32292924640514875, HighChol: 0.2858715560024509, HighBP: 0.23462941265316103
+
+Principal Component 7: Readmission, smoking, and age
+readmitted_>30: 0.9612176918222635, readmitted_<30: -0.21310437242987346, Smoker: 0.11536314407361348, age_[60-70): 0.06979667116217193, HighChol: -0.0574438602860545
+
+Principal Component 8: Age, cholesterol, and demographics
+age_[50-60): -0.504778678962094, HighChol: -0.42996653336816565, age_[70-80): 0.323657478183437, Sex: 0.3200428920017725, age_[60-70): -0.25583091987356626
+
+=============================
+Top 9 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.48858400857792994, HighChol: 0.4174522171117072, DiffWalk: 0.28889552087321235, Smoker: 0.27742304162084214, PhysActivity: -0.24876292048151216
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977879030589365, race_AfricanAmerican: 0.645705199375283, Sex: -0.1556370975590582, PhysActivity: -0.10926310989772335, DiffWalk: 0.10056668094625847
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.61479728418275, Sex: 0.4765168574841453, Smoker: 0.3057511607443205, Veggies: -0.2780209755667917, HighChol: -0.23651429187926257
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6353421648966585, age_[60-70): -0.3543471817148639, PhysActivity: -0.30892301717443094, HighChol: -0.24487975061779682, DiffWalk: 0.23469914582787157
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5656043977264426, age_[50-60): -0.4431916876867268, Smoker: -0.41544448145241714, Fruits: -0.4124618665577005, Veggies: -0.2081907946675683
+
+Principal Component 6: Smoking, age, and health
+Smoker: -0.7127073818609017, age_[60-70): -0.32544800754103237, age_[50-60): 0.31997866119182056, HighChol: 0.2857101594314344, HighBP: 0.2344694363811219
+
+Principal Component 7: Readmission, smoking, and age
+readmitted_>30: 0.9613395652304693, readmitted_<30: -0.2124371148424214, Smoker: 0.11474912730932803, age_[60-70): 0.06996008581675708, HighChol: -0.05823831038672596
+
+Principal Component 8: Age, cholesterol, and demographics
+age_[50-60): -0.5070373881793113, HighChol: -0.42694102251591654, age_[70-80): 0.3224489888914643, Sex: 0.3196775154970226, age_[60-70): -0.256750430692278
+
+Principal Component 9: Age groups, cholesterol, and diet
+age_[70-80): -0.4475503554037615, age_[50-60): 0.37941786112168563, HighChol: -0.3360363065758799, Fruits: 0.3192569128815648, Sex: 0.31575608674876726
+
+=============================
+Top 10 Principal Components:
+Principal Component 1: Cardiovascular risk factors
+HighBP: 0.48856772578980656, HighChol: 0.41743628494623747, DiffWalk: 0.288876847999475, Smoker: 0.2774129997290744, PhysActivity: -0.24876868508546987
+
+Principal Component 2: Demographic and activity
+race_Caucasian: -0.6977840625547154, race_AfricanAmerican: 0.6456889244541664, Sex: -0.15564491537085898, PhysActivity: -0.10925070747842301, DiffWalk: 0.100568954017192
+
+Principal Component 3: Dietary habits and health
+Fruits: -0.6147481989935045, Sex: 0.4764584265290462, Smoker: 0.30569501883561806, Veggies: -0.2781392124221263, HighChol: -0.2365857629375878
+
+Principal Component 4: Age, lifestyle, and health
+Sex: -0.6353456707813174, age_[60-70): -0.3543371494103555, PhysActivity: -0.30872986364752386, HighChol: -0.2445114413027348, DiffWalk: 0.2347898595898392
+
+Principal Component 5: Age, smoking, and diet
+age_[60-70): 0.5655835090625684, age_[50-60): -0.4434380550584929, Smoker: -0.41522640345836737, Fruits: -0.4119491332022392, Veggies: -0.20851798058725707
+
+Principal Component 6: Smoking, age, and health
+Smoker: -0.7126405171280215, age_[60-70): -0.32546393464050655, age_[50-60): 0.3196936463454292, HighChol: 0.2859586590691349, HighBP: 0.2343575007284044
+
+Principal Component 7: Readmission, smoking, and age
+readmitted_>30: 0.9611024841141073, readmitted_<30: -0.21342741415198838, Smoker: 0.11552193563613904, age_[60-70): 0.07022898718337511, HighChol: -0.05764227637152755
+
+Principal Component 8: Age, cholesterol, and demographics
+age_[50-60): -0.5067267065078329, HighChol: -0.4278256514603028, age_[70-80): 0.322900337923871, Sex: 0.31951477839043374, age_[60-70): -0.2567608817537815
+
+Principal Component 9: Age groups, cholesterol, and diet
+age_[70-80): -0.4485786104302137, age_[50-60): 0.3784885875395333, HighChol: -0.3355769583810195, Fruits: 0.3186701425569873, Sex: 0.3160863443696881
+
+Principal Component 10: Cardiovascular risk and lifestyle
+HighBP: -0.6251459667145173, HighChol: 0.5360299151951937, PhysActivity: -0.27958354506191235, age_[40-50): 0.23658056308231679, Fruits: 0.21922460927110043
+

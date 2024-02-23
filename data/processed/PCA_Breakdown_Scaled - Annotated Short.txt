@@ -1,0 +1,10 @@
+Principal Component 1: Cardiovascular risk factors
+Principal Component 2: Demographic and activity
+Principal Component 3: Dietary habits and health
+Principal Component 4: Age, lifestyle, and health
+Principal Component 5: Age, smoking, and diet
+Principal Component 6: Smoking, age, and health
+Principal Component 7: Readmission, smoking, and age
+Principal Component 8: Age, cholesterol, and demographics
+Principal Component 9: Age groups, cholesterol, and diet
+Principal Component 10: Cardiovascular risk and lifestyle
