@@ -8,5 +8,5 @@ Contributors:
 
 Contents:
 - data
--     processed
--     raw
+    - processed
+    - raw
