@@ -20,7 +20,7 @@ Contents:
         - `Results/`
             - All outputs and notes as a result of model building
 
-Running the code: Please note that the notebooks were built under a different folder structure. If you'd like to run the code using our dataset, please change the data sources within the files to 'data\processed\cleaned_augmented_2.csv', 'data\processed\CDCDiabetesHealthIndicators.csv', or 'data\processed\diabetes130Hospitals10Years.csv' as necessary.
+Running the code: Please note that the notebooks were built under a different folder structure. If you'd like to run the code using our dataset, please change the data sources within the files to `data\processed\cleaned_augmented_2.csv`, `data\processed\CDCDiabetesHealthIndicators.csv`, or `data\processed\diabetes130Hospitals10Years.csv` as necessary.
 
 Data processing: 
 1. notebooks/data_processing/Capstone_Aleksa_Dataset_1_Rework.ipynb
