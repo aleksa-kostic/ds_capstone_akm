@@ -13,7 +13,7 @@ Contents:
     - `raw/`
         - There are no raw data files pulled directly from anywhere as data is pulled through Python from the UCI Machine Learning repository. 
 - `notebooks/`
-    - `processing/`
+    - `data_processing/`
         - Notebooks for preprocessing the data pulled from the UCI Machine Learning repository. Output files are under `data/processed/`.
     - `models/`
         - Notebooks for building the models and getting our results.
