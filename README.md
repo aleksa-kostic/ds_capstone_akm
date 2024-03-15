@@ -30,16 +30,16 @@ Data processing:
 5. notebooks/models/Cleanup Part 2 and PCA.ipynb
 
 Model building (in any order):
-- Aleksa_Capstone_Neural_Nets_Without_PCA.ipynb
-- Aleksa_Capstone_Neural_Nets_With_PCA.ipynb
-- Decision Trees.ipynb
-- Decision Trees_PCA.ipynb
-- KNN.ipynb
-- KNN_PCA.ipynb
-- Logistic Regression.ipynb
-- Logistic Regression_PCA.ipynb
-- NaiveBayes.ipynb
-- PCA_NaiveBayes.ipynb
-- Random Forest.ipynb
-- Random Forest_PCA.ipynb
-- SVM.ipynb
+- notebooks/models/Aleksa_Capstone_Neural_Nets_Without_PCA.ipynb
+- notebooks/models/Aleksa_Capstone_Neural_Nets_With_PCA.ipynb
+- notebooks/models/Decision Trees.ipynb
+- notebooks/models/Decision Trees_PCA.ipynb
+- notebooks/models/KNN.ipynb
+- notebooks/models/KNN_PCA.ipynb
+- notebooks/models/Logistic Regression.ipynb
+- notebooks/models/Logistic Regression_PCA.ipynb
+- notebooks/models/NaiveBayes.ipynb
+- notebooks/models/PCA_NaiveBayes.ipynb
+- notebooks/models/Random Forest.ipynb
+- notebooks/models/Random Forest_PCA.ipynb
+- notebooks/models/SVM.ipynb
