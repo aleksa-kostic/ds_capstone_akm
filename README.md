@@ -22,14 +22,14 @@ Contents:
 
 Running the code: Please note that the notebooks were built under a different folder structure. If you'd like to run the code using our dataset, please change the data sources within the files to `data\processed\cleaned_augmented_2.csv`, `data\processed\CDCDiabetesHealthIndicators.csv`, or `data\processed\diabetes130Hospitals10Years.csv` as necessary.
 
-Data processing: 
+Data processing (in specific order): 
 1. notebooks/data_processing/Capstone_Aleksa_Dataset_1_Rework.ipynb
 2. notebooks/data_processing/Capstone_Aleksa_Dataset_3.ipynb
 3. notebooks/data_processing/Capstone_Aleksa_Merging.ipynb
 4. notebooks/models/Cleanup and PCA.ipynb
 5. notebooks/models/Cleanup Part 2 and PCA.ipynb
 
-Model building (in any order):
+Model building (in no particular order):
 - notebooks/models/Aleksa_Capstone_Neural_Nets_Without_PCA.ipynb
 - notebooks/models/Aleksa_Capstone_Neural_Nets_With_PCA.ipynb
 - notebooks/models/Decision Trees.ipynb
